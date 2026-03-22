@@ -1,10 +1,10 @@
-# omeLab NIDS (Network Intrusion Detection System)
+# HomeLab NIDS (Network Intrusion Detection System)
 
 A custom-built, lightweight Network Intrusion Detection System (NIDS) operating at Layer 3/4 of the OSI model. The project combines real-time network traffic analysis, log persistence in a database, and an interactive analytical dashboard.
 
 Created as part of a home lab (Purple Teaming) using Proxmox VE and Kali Linux.
 
-## roject Architecture
+## Project Architecture
 
 *(Insert your exported draw.io diagram here)*
 `![Network Diagram](link_to_image_on_github)`
