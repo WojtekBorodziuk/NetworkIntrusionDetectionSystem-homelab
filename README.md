@@ -29,7 +29,7 @@ The system consists of two independent modules (Separation of Concerns):
 ## Local Setup & Execution
 
 1. Clone the repository:
-git clone [https://github.com/YOUR_USERNAME/nids-homelab.git](https://github.com/YOUR_USERNAME/nids-homelab.git)
+git clone [https://github.com/WojtekBorodziuk/NIDS-homelab.git](https://github.com/WojtekBorodziuk/NIDS-homelab.git)
 cd nids-homelab
 
 
