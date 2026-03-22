@@ -46,9 +46,9 @@ sudo venv/bin/python sniffer.py
 
 5. In a second terminal window, run the analytical dashboard:
 python -m streamlit run dashboard.py
-
+```
 ## Attack Simulation (Purple Team)
-
+```bash
 1. Port Scanning (Nmap):
 sudo nmap -sS -p 1-1000 <NIDS_SERVER_IP>
 
